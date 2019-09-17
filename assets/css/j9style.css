@@ -1,0 +1,25 @@
+
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+.flip-h{-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);}
+
+  .header {    min-height: 75px;
+    }
+    .why .benefits .item .title {
+        color: inherit;
+        /* color: #6dbd63; */
+    }
+.highlight {color: #6dbd63;}
+
+.why .benefits .item .icon {
+    top: unset;
+}
+@media (min-width: 320px){
+.why .benefits .item {
+    padding: 15px;
+    margin-bottom: unset;
+}}
